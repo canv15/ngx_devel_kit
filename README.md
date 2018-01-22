@@ -120,6 +120,8 @@ To use the NDK in your own module, you need to add the following:
 
 ```C
 #include    <ndk.h>
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fngx_devel_kit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fngx_devel_kit?ref=badge_shield)
+
 ```
 
 Note: since the NDK includes the following lines
@@ -239,3 +241,7 @@ Author
 * Marcus Clyne (https://github.com/mclyne)
 
 [Back to TOC](#table-of-contents)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fngx_devel_kit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fngx_devel_kit?ref=badge_large)
